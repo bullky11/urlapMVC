@@ -1,6 +1,6 @@
 class UrlapModell {
-    constructor(param){
-        cons
+    constructor(){
+        
     }
 }
 export default UrlapModell;
